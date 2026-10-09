@@ -7,11 +7,6 @@ build/
 .flutter-plugins-dependencies
 .idea/
 .vscode/
-.iml.dart_tool/
-build/
-.flutter-plugins
-.flutter-plugins-dependencies
-.dart_tool/
-build/
-.flutter-plugins
-.flutter-plugins-dependencies
+*.iml
+**/intermediates/
+**/outputs/
